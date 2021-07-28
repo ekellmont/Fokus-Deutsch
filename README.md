@@ -1,5 +1,5 @@
 # Welcome to my Portfolio
-I am currently a student at the University of Washington, Bothell studying Computer Science with a special focus on cybersecurity. Here are some examples of the cybersecurity coursework I have completed as well as Java programming projects.
+I am currently a student at the University of Washington, Bothell studying Computer Science with a special focus on cybersecurity. Here are some examples of the cybersecurity coursework I have completed as well as Java programming projects. Click on the links below to go directly to the files.
 # Cybersecurity
 - [Organizational Risk Management Analysis of Expedia](Org_Risk_Mgmt.pdf)
 - [Email Security Controls](Security_Controls.pdf)
