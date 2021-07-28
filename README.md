@@ -3,7 +3,7 @@ I am currently a student at the University of Washington, Bothell studying Compu
 # Cybersecurity
 - [Organizational Risk Management Analysis](Org_Risk_Mgmt.pdf)
 - [Email Security Controls](Security_Control.pdf)
-- Passwords, Biometrics, & the Evolving Legal Status of Encryption report (Powerpoint version)
+- Passwords, Biometrics, & the Evolving Legal Status of Encryption report and [Powerpoint Presentation](Password_Legal_Presentation.pdf)
 - Forensic analysis of Bot Attack
 - Cipher implementation, analysis and enhancement including calculation of Avalanche Effect
 - Development and testing of OTP (One Time Password) system including Collission Resistanc analysis
