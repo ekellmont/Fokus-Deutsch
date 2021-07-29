@@ -1,7 +1,7 @@
 # Welcome to my Portfolio
 I am currently a student at the University of Washington, Bothell studying Computer Science with a special focus on cybersecurity. Here are some examples of the cybersecurity coursework I have completed as well as Java programming projects. Click on the links below to go directly to the files.
 # Cybersecurity
-- [Episode 1 Transcript](Org_Risk_Mgmt.pdf)
+- [Episode 1 Transcript](fokus_deutsch_ep1.pdf)
 - [Episode 2 Transcript](Security_Control.pdf)
 - Passwords, Biometrics, & the Evolving Legal Status of Encryption report and [Powerpoint Presentation](Password_Legal_Presentation.pdf)
 - Forensic analysis of Bot Attack
