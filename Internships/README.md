@@ -9,9 +9,9 @@
 |Glassdoor|Fairly comprehensive. Provides detailed info on interviews and pay as well as company reviews.
 # Searching Listings
 .In searching for internships, I have found the following things to keep in mind
-- Do not ignore general listings for a summer IT, SWE or Engineering internship program. These often cover many functions and if you read the detailed listing you may find cyber security positions listed as one of the departments hosting interns.
-. Set Job Type or Experience Level = Internship for more targeted responses. Keep in mind some companies may neglect to check the Intern box and these positions will be missed in the search.
-- Use automated searching to have new listings automatically sent to yyour email.
+- Do not ignore **general listings** for a summer IT, SWE or Engineering internship program. These often cover many functions and if you read the detailed listing you may find cyber security positions listed as one of the departments hosting interns.
+- Set **Job Type or Experience Level = Internship** for more targeted responses. Keep in mind some companies may neglect to check the Intern box and these positions will be missed in the search.
+- Use **automated searching** to have new listings automatically sent to your email.
 - 
 - 
 - Information Security intern, Information Security Internship, Information Security co-op, information security student
