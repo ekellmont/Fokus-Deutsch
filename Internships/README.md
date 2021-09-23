@@ -9,10 +9,12 @@
 |Glassdoor|Fairly comprehensive. Provides detailed info on interviews and pay as well as company reviews.
 # Searching Listings
 .In searching for internships, I have found the following things to keep in mind
-- Do not ignore **general listings** for a summer IT, SWE or Engineering internship program. These often cover many functions and if you read the detailed listing you may find cyber security positions listed as one of the departments hosting interns.
+- Don't ignore **general listings** for a summer IT, SWE or Engineering internship program. These often cover many functions and if you read the detailed listing you may find cyber security positions listed as one of the departments hosting interns.
 - Set **Job Type or Experience Level = Internship** for more targeted responses. Keep in mind some companies may neglect to check the Intern box and these positions will be missed in the search.
 - Use **automated searching** to have new listings automatically sent to your email.
-- 
+- Some information security jobs fall under "Risk Assurance and Audit". These can include technical CS jobs but more often tend to be less technical and more suited to Accounting majors as they involve overall auditing of information systems and processes. If the first major listed under requirements is Accounting that's often a good indicator of these types of jobs. 
+- If you search on "Security" alone, you will likely get some physical security jobs relating to guards, protection of plant assets etc. 
+- Don't ignore generic job titles like "Intern" or "Intern SOC", it's worth reading the description to see if it pertains to cybersecurity.
 - 
 - Information Security intern, Information Security Internship, Information Security co-op, information security student
 - Cybersecurity intern, Cybersecurity Internship, Cybersecurity co-oop, cybersecurity student
