@@ -1,7 +1,15 @@
 # Best Sources for Internship Listings
 . Click on the links below to go directly to the websites.
 # Cybersecurity
-- [Indeed](fokus_deutsch_transcript_ep10.pdf) - Most comprehensive listings
+
+|Site|Description|
+|---|---|
+|Indeed|Most comprehensive listing|
+|Linkedin|Very comprehensive also excellent networking tool|
+|Glassdoor|Fairly comprehensive. Provides detailed info on interviews and pay as well as company reviews.
+
+
+- [Indeed](fokus_deutsch_transcript_ep10.pdf)  - Most comprehensive listings
 - [LinkedIn](https://github.com/ekellmont/Fokus-Deutsch/blob/main/fokus_deutsch_transcript_ep10.pdf) - Very comprehensive and good networking tool
 - [Glassdoor](Password_Legal_Presentation.pdf) - Fairly comprehensive and provides detailed info on employee interviews, pay, and satisfaction
 - [Handshake](transcripts) - Job listings are specifically directed to your college, good way to connect with recruiters directly or through job fairs and other events, possibly higher response rate due to selective nature of listing.
