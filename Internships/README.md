@@ -7,7 +7,11 @@
 |Indeed|Most comprehensive listing|
 |Linkedin|Very comprehensive also excellent networking tool|
 |Glassdoor|Fairly comprehensive. Provides detailed info on interviews and pay as well as company reviews.
-
+# Searching Listings
+. When entering search criteria for cybersecurity internships 
+- Information Security intern, Information Security Internship, Information Security co-op, information security student
+- Cybersecurity intern, Cybersecurity Internship, Cybersecurity co-oop, cybersecurity student
+- Security intern, Security internship, Security co-op, security student 
 
 - [Indeed](fokus_deutsch_transcript_ep10.pdf)  - Most comprehensive listings
 - [LinkedIn](https://github.com/ekellmont/Fokus-Deutsch/blob/main/fokus_deutsch_transcript_ep10.pdf) - Very comprehensive and good networking tool
